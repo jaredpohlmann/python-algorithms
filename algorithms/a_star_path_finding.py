@@ -1,5 +1,5 @@
 import heapq
-
+# A* algorithm
 
 class Cell(object):
     def __init__(self, x, y, reachable):
